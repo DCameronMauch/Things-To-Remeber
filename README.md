@@ -1,4 +1,4 @@
-Things-To-Remeber
-=================
+# Things to Remember
 
-* [Books](Books.md)
+* [Books Worthy of Reading](Books.md)
+* [Stoic Philosophy](Stoic.md)
